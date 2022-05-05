@@ -1,0 +1,9 @@
+"LEIA-ME"  
+  
+Projeto desenvolvido para estudo de  
+versionamento em TI  
+   
+Por Bianca_Leal
+   
+05/05/2022- Início e Criação do Projeto Versionamento,
+ Utilização do GIT e GITHUB
